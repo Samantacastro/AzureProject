@@ -1,4 +1,0 @@
-git config --global user.email "Samanta.castro001@mymdc.net"
-git config --global user.name "SamantaCastro"
-
-https://github.com/Samantacastro/AzureProject.git
